@@ -1,0 +1,138 @@
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+C:\Users\Ahmed El Gendy\source\repos\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 4\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 4\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 4\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 4\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 4\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 4\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 4\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 4\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 4\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 4\Demo\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 4\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 4\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 4\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 4\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 5\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 5\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 5\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 5\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 5\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 5\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 5\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 5\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 5\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 5\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 5\Demo\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 5\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 5\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 5\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 6\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 6\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 6\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 6\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 6\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 6\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 6\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 6\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 6\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 6\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 6\Demo\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 6\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 6\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 6\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 7\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 7\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 7\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 7\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 7\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 7\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 7\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 7\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 7\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 7\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 7\Demo\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 7\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 7\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 7\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 8\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 8\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 8\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 8\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 8\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 8\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 8\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 8\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 8\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 8\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 8\Demo\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 8\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 8\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 8\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 9\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 9\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 9\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 9\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 9\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 9\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 9\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 9\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 9\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 9\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 9\Demo\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 9\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 9\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 9\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 11\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 11\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 11\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 11\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+D:\Rounds\Senior Steps\Elasher G1\Back End\.Net Core 6\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+F:\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+F:\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+F:\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+F:\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+F:\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+F:\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+F:\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+F:\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+F:\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+F:\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+F:\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+F:\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+F:\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+E:\FullStack Web Dev\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+E:\FullStack Web Dev\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+E:\FullStack Web Dev\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+E:\FullStack Web Dev\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+E:\FullStack Web Dev\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\FullStack Web Dev\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStack Web Dev\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\FullStack Web Dev\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+E:\FullStack Web Dev\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\FullStack Web Dev\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+E:\FullStack Web Dev\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+E:\FullStack Web Dev\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+E:\FullStack Web Dev\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+E:\FullStack Web Dev\backend.Net\.Net core\Session_ 11\Demo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll

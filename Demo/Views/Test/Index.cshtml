@@ -1,0 +1,49 @@
+﻿@inject Demo.BL.Interfaces.IEmployeeRep employee
+@inject Demo.BL.Interfaces.IDepartmentRep department
+@inject Demo.BL.Interfaces.ICountry country
+
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+
+    <select>
+        <option>Choose Employee</option>
+        @foreach (var item in await employee.GetAsync(a => a.IsActive == true))
+        {
+            <option>@item.Name</option>
+        }
+    </select>
+
+
+    <select>
+        <option>Choose Department</option>
+        @foreach (var item in await department.GetAsync())
+        {
+            <option value="@item.Id">@item.Name</option>
+        }
+    </select>
+
+
+    <select>
+        <option>Choose Country</option>
+        @foreach (var item in await country.GetAsync(a => a.Id != null))
+        {
+            <option>@item.Name</option>
+        }
+    </select>
+
+
+</body>
+</html>
